@@ -1,8 +1,8 @@
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-
+Pemikiran Komputasional adalah cara kita menyelesaikan masalah seperti memecah masalah besar menjadi potongan kecil, mencari pola atau kesamaan, menyederhanakan masalah, dan membuat rencana langkah demi langkah untuk menyelesaikannya atau yang disebut dengan algoritma. Ini seperti saat kita memecahkan puzzle atau menyelesaikan lego, kita membaginya ke bagian-bagian lebih kecil dan menggunakan langkah-langkah untuk menemukan jawabannya. Jadi, Pemikiran Komputasional itu seperti membantu pikiran kita bekerja dengan cara cerdas untuk menyelesaikan masalah.
 
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-
+Ada beberapa jenis mesin komputer yang berbeda-beda. Ada komputer pribadi yang digunakan orang untuk pekerjaan, belajar, dan main game. Laptop mirip komputer tapi bisa dibawa ke mana-mana. Komputer tablet itu seperti gadget besar yang bisa disentuh layarnya. Server itu komputer besar yang simpan data dan layani banyak orang sekaligus. Superkomputer sangat cepat dan kuat untuk tugas besar seperti riset ilmiah. Terakhir, komputer embedded ada di dalam barang lain seperti mobil atau kamera untuk kontrol fungsinya. Jadi, tiap jenis komputer punya peran sendiri dalam membantu kita sehari-hari.
 
 ## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
