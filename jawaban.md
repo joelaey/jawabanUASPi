@@ -5,7 +5,8 @@ Pemikiran Komputasional adalah cara kita menyelesaikan masalah seperti memecah m
 Ada beberapa jenis mesin komputer yang berbeda-beda. Ada komputer pribadi yang digunakan orang untuk pekerjaan, belajar, dan main game. Laptop mirip komputer tapi bisa dibawa ke mana-mana. Komputer tablet itu seperti gadget besar yang bisa disentuh layarnya. Server itu komputer besar yang simpan data dan layani banyak orang sekaligus. Superkomputer sangat cepat dan kuat untuk tugas besar seperti riset ilmiah. Terakhir, komputer embedded ada di dalam barang lain seperti mobil atau kamera untuk kontrol fungsinya. Jadi, tiap jenis komputer punya peran sendiri dalam membantu kita sehari-hari.
 
 ## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-
+! [ss google collab] (<img width="1440" alt="Screenshot 2023-12-19 at 21 51 38" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/617a5b6c-2a63-4010-a2e6-b9d36b857014">
+)
 
 ## 4. Mencoba Console Sistem Operasi
 
