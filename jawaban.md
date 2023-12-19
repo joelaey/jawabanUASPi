@@ -41,6 +41,7 @@ Ada beberapa jenis mesin komputer yang berbeda-beda. Ada komputer pribadi yang d
 
 
 ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+https://www.youtube.com/watch?v=Qfenvn-9S34
 
 ## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 <img width="884" alt="Screenshot 2023-12-19 at 22 37 46" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/f77329a9-e063-4214-aa4d-3c19850ce303">
