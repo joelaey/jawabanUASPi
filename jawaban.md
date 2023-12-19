@@ -139,6 +139,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## 35. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+<img width="1440" alt="Screenshot 2023-12-19 at 23 04 43" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/9c767578-0d7a-47ed-83db-4971b45c172a">
 
 
 ## 36. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
@@ -158,6 +159,7 @@ Jurnal adalah tulisan ilmiah yang berisi penelitian, biasanya ditulis oleh pakar
 
 
 ## 41. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+<img width="948" alt="Screenshot 2023-12-19 at 23 02 09" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/014cd8fb-d68e-4167-ac0e-e1976e9a2144">
 
 
 ## 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
@@ -182,12 +184,13 @@ Jurnal adalah tulisan ilmiah yang berisi penelitian, biasanya ditulis oleh pakar
 
 
 ## 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
-
+https://www.linkedin.com/in/m-agung-julyansyah-8979b1297/
 
 ## 50. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 
 ## 51. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+<img width="929" alt="Screenshot 2023-12-19 at 22 54 37" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/0b8d10a4-0d2f-4a84-9999-eeb3545cf943">
 
 
 ## 52. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
