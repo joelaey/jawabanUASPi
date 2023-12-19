@@ -21,7 +21,7 @@ Ada beberapa jenis mesin komputer yang berbeda-beda. Ada komputer pribadi yang d
 <img width="987" alt="Screenshot 2023-12-19 at 22 17 01" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/dcd677dd-70ea-4c7d-a288-2d9eb8cbfc96">
 
 ## 6. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-<img width="987" alt="Screenshot 2023-12-19 at 22 17 01" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/07ba07a5-a189-4c94-995c-ccbe07ea88b8">]
+<img width="1437" alt="Screenshot 2023-12-19 at 22 19 53" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/3d0f54b6-a8a2-4ece-b443-0fe325d780d7">
 
 ## 7. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 <img width="1440" alt="Screenshot 2023-12-19 at 22 21 15" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/90c01521-3a9e-476e-b2ee-7a223ff93b51">
