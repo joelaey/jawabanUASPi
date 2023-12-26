@@ -157,6 +157,8 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 Jurnal adalah tulisan ilmiah yang berisi penelitian, biasanya ditulis oleh pakar dalam bidang tertentu. Conference adalah pertemuan di mana para ahli atau peneliti berkumpul untuk berbagi pengetahuan melalui presentasi atau diskusi tentang topik khusus. Artikel adalah tulisan pendek yang bisa berisi informasi, opini, atau laporan terkait topik tertentu. Sementara itu, Grade Jurnal adalah penilaian kualitas suatu jurnal berdasarkan standar akademik, seperti kualitas penelitian, reputasi penulis, serta review dari pakar dalam bidang yang relevan. Ini penting karena memperlihatkan seberapa kuat atau kredibel sebuah jurnal dalam dunia akademik.
 
 ## 40. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+<img width="1440" alt="Screenshot 2023-12-26 at 11 29 30" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/2a759882-92b0-4c78-80cc-1b42d7526e51">
+
 
 
 ## 41. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
@@ -164,32 +166,33 @@ Jurnal adalah tulisan ilmiah yang berisi penelitian, biasanya ditulis oleh pakar
 
 
 ## 42. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
-
+<img width="1440" alt="Screenshot 2023-12-26 at 12 06 17" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/3e437e68-9274-45e9-8592-2c9e3ff8e55e">
 
 ## 43. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+<img width="1440" alt="Screenshot 2023-12-26 at 11 44 29" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/ceaa45df-b8f2-4831-818c-bbc0c0b15351">
 
 
 ## 44. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
-
+![IMG_24E878EBA8F6-1](https://github.com/joelaey/jawabanUASPi/assets/144584069/28520286-1051-40e7-9ff5-f6e4b45c3e4a)
 
 ## 45. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
+<img width="1440" alt="Screenshot 2023-12-26 at 11 54 01" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/466956cc-57f5-47ec-a347-a56087123fe3">
 
 ## 46. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
+<img width="1440" alt="Screenshot 2023-12-26 at 11 52 44" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/a14a3210-a9ef-4240-915a-d75f5fd42306">
 
 ## 47. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-
+<img width="1440" alt="Screenshot 2023-12-26 at 11 54 53" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/ff506ddd-2072-48f6-a8b1-86083e7139cb">
 
 ## 48. Eksplorasi Top Github Project yang Diminati ⭐⭐
-
+<img width="1440" alt="Screenshot 2023-12-26 at 11 57 26" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/766f460b-57a1-4c65-b389-527592893b44">
 
 ## 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 https://www.linkedin.com/in/m-agung-julyansyah-8979b1297/
 
 ## 50. Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
-
+[
+](https://github.com/joelaey)
 ## 51. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 <img width="929" alt="Screenshot 2023-12-19 at 22 54 37" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/0b8d10a4-0d2f-4a84-9999-eeb3545cf943">
 
