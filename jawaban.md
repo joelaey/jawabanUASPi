@@ -48,16 +48,12 @@ https://www.youtube.com/watch?v=Qfenvn-9S34
 
 ## 12. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-Referensi installer Dbeaver
-Referensi 1
+<img width="1440" alt="Screenshot 2023-12-26 at 15 46 57" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/c1dc4486-5103-4965-afd9-9855846b71da">
+
 
 ## 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
-
-Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-
+<img width="1435" alt="Screenshot 2023-12-26 at 15 42 38" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/119a6721-cb64-4c1e-92a0-a8e59feab7cf">
 
 ## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
@@ -100,9 +96,7 @@ Referensi []
 
 
 ## 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
+Layanan cloud ini sangat membantu banyak pihak, karena cloud ini adalah sebuah layanan dimana client menyewa sebuah server besar seperti azure dll dan menyimpan data yang diperlukan disana, Hal ini sangat membantu karena client yang membutuhkan server tidak perlu membuat / membangun sendiri dengan modal yang memang cukup mahal karena ruangan untuk menyimpan server ini juga harus memadai belum dengan biaya perawatan dan lainnya.
 
 ## 24. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
