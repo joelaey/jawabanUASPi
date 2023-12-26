@@ -56,40 +56,23 @@ https://www.youtube.com/watch?v=Qfenvn-9S34
 <img width="1435" alt="Screenshot 2023-12-26 at 15 42 38" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/119a6721-cb64-4c1e-92a0-a8e59feab7cf">
 
 ## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-
-Referensi: 1
+URL atau Uniform Resource Locator adalah alamat unik yang digunakan untuk menemukan sesuatu di internet, mirip dengan alamat rumah yang menyebutkan di mana sesuatu berada. Komponen-komponen URL terdiri dari beberapa bagian, seperti 'https://' yang merupakan skema, yang mengindikasikan cara aksesnya, seperti apakah itu situs web yang aman (HTTPS) atau tidak (HTTP). Kemudian, 'www.example.com' adalah hostname yang menunjukkan ke situs web yang ingin diakses, sedangkan '/path/to/resource' adalah bagian dari alamat yang menunjukkan lokasi spesifik dari konten yang diinginkan di dalam situs. Terakhir, '?param=value' dan '#section' adalah bagian tambahan yang memberikan informasi tambahan, seperti parameter query atau bagian spesifik dari halaman web. Semua komponen ini bekerja bersama-sama untuk membantu menemukan dan mengakses konten di internet dengan tepat.
 
 ## 15. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+<img width="1193" alt="Screenshot 2023-12-26 at 17 43 21" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/6981cdc4-f152-4d79-9fa3-ed298495bf22">
 
-Referensi terkait: 1 2
-
+Saya disini menggunakan nslookup dengan cara search " nslookup 'example.com' ".
 ## 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
-Referensi tutorial
-
-Isi konten halaman web : HTML
-
-Styling halaman web : CSS
-
-Interaktivitas halaman web : JavaScript
-
-
 
 ## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
-
 ## 18. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-
 
 ## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-
 ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
-
 ## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
-
 
 ## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 <img width="1286" alt="Screenshot 2023-12-19 at 22 47 40" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/44ff5621-933c-454e-bf13-dade2df11f66">
@@ -140,6 +123,7 @@ Untuk mengakses konten multimedia seperti gambar, video, atau audio di web, lang
 
 
 ## 34. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+<img width="1435" alt="Screenshot 2023-12-26 at 17 35 39" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/619f0647-9ce3-46c7-852d-25e0fdf3ec64">
 
 
 ## 35. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
@@ -193,11 +177,12 @@ Jurnal adalah tulisan ilmiah yang berisi penelitian, biasanya ditulis oleh pakar
 ## 49. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 https://www.linkedin.com/in/m-agung-julyansyah-8979b1297/
 
-## 50. Membangun Profil Github Page ⭐⭐⭐⭐⭐
-[
-](https://github.com/joelaey)
+## 50. Membangun Profil Github Pages ⭐⭐⭐⭐⭐
+[](https://github.com/joelaey)
 ## 51. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 <img width="929" alt="Screenshot 2023-12-19 at 22 54 37" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/0b8d10a4-0d2f-4a84-9999-eeb3545cf943">
 
 
 ## 52. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
+Saya membaca buku Code: The Hidden Language of Computer Hardware and Software, inti dari buku ini adalah bagaimana pentingnya berpikir secara abstrak, bagaimana perkembangan bahasa pemograman dari zaman dulu hingga sekarang, pemahaman tentang hardware, interaksi antara manusia dan komputer, komputasi dasar, dan sejarah evolusi komputer .Inspirasi yang saya ambil dari buku ini adalah bagaimana cara manusia yang harus terus beradaptasi dan belajar dengan lahirnya teknologi-teknologi yang baru dan lebih canggih, Dan bagaimana komputer bisa menjadi suatu alat yang mampu merubah dunia lewat suatu bahasa pemograman yang menjadi sebuah perantara berkomunikasi antara manusia dan komputer, juga saya terinspirasi atau termotivasi untuk terus menumbuhkan logika komputasi dan membangun algoritma algoritma yang bisa membantu menyelesaikan masalah kehidupan yang akan dialami manusia di masa mendatang ataupun di masa sekarang.
