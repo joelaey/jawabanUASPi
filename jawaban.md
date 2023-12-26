@@ -99,21 +99,30 @@ Referensi []
 Layanan cloud ini sangat membantu banyak pihak, karena cloud ini adalah sebuah layanan dimana client menyewa sebuah server besar seperti azure dll dan menyimpan data yang diperlukan disana, Hal ini sangat membantu karena client yang membutuhkan server tidak perlu membuat / membangun sendiri dengan modal yang memang cukup mahal karena ruangan untuk menyimpan server ini juga harus memadai belum dengan biaya perawatan dan lainnya.
 
 ## 24. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+<img width="1440" alt="Screenshot 2023-12-26 at 16 11 13" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/0af81b9e-5eaf-457c-b1c5-77dc2fb1dea8">
 
 
 ## 25. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+<img width="563" alt="Screenshot 2023-12-26 at 16 47 00" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/bee62615-5480-4f28-b360-952e8b94d187">
+
+Untuk mengakses konten multimedia seperti gambar, video, atau audio di web, langkah pertama adalah menyimpan konten tersebut di server atau penyimpanan cloud. Kemudian, dengan menggunakan alamat atau URL tertentu, konten tersebut diakses melalui browser web atau aplikasi. Proses ini melibatkan koneksi internet yang memungkinkan transfer data dari server ke perangkat pengguna melalui jaringan. Untuk memasukkan konten multimedia ke dalam suatu web, konten tersebut harus diunggah atau dimasukkan ke dalam sistem manajemen konten (Content Management System/ CMS) seperti WordPress atau platform serupa. Ini melibatkan langkah-langkah seperti login ke CMS, navigasi ke bagian pengelolaan konten, dan proses unggah berkas atau menambahkan URL konten yang akan dimasukkan ke dalam halaman web.
 
 ## 26. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+<img width="1133" alt="Screenshot 2023-12-26 at 16 57 16" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/c4eb6c79-76d9-40f8-ac8f-57dda57207b4">
+![IMG_7610](https://github.com/joelaey/jawabanUASPi/assets/144584069/fd53281e-2876-4f2b-b21a-dbfa641e0f66)
+![IMG_7609](https://github.com/joelaey/jawabanUASPi/assets/144584069/569da2e9-8d12-4b31-870b-9d15f3970b3d)
 
 
 ## 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+<img width="1440" alt="Screenshot 2023-12-26 at 16 34 54" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/b63166e3-0600-417f-84bc-d150a005497b">
 
 
 ## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 
 ## 29. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+<img width="1440" alt="Screenshot 2023-12-26 at 16 07 41" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/eb91b9bf-d4dc-4bde-85fc-83d50173657a">
 
 
 ## 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
