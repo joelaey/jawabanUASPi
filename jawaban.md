@@ -63,10 +63,12 @@ URL atau Uniform Resource Locator adalah alamat unik yang digunakan untuk menemu
 
 Saya disini menggunakan nslookup dengan cara search " nslookup 'example.com' ".
 ## 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+<img width="1436" alt="Screenshot 2023-12-27 at 00 58 47" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/e690d578-5807-4b5f-8802-196acae42871">
 
 ## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 ## 18. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+<img width="1436" alt="Screenshot 2023-12-27 at 00 58 47" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/9992adbe-8e84-43ca-9160-96ee28812f27">
 
 ## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
