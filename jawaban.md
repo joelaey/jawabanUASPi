@@ -18,7 +18,8 @@ Ada beberapa jenis mesin komputer yang berbeda-beda. Ada komputer pribadi yang d
 
 
 ## 5. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-<img width="987" alt="Screenshot 2023-12-19 at 22 17 01" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/dcd677dd-70ea-4c7d-a288-2d9eb8cbfc96">
+<img width="843" alt="Screenshot 2023-12-27 at 09 29 46" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/c6632753-dd5d-487a-9683-624b5423d7c7">
+
 
 ## 6. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 <img width="1437" alt="Screenshot 2023-12-19 at 22 19 53" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/3d0f54b6-a8a2-4ece-b443-0fe325d780d7">
