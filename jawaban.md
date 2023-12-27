@@ -97,8 +97,8 @@ Untuk mengakses konten multimedia seperti gambar, video, atau audio di web, lang
 
 ## 26. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 <img width="1133" alt="Screenshot 2023-12-26 at 16 57 16" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/c4eb6c79-76d9-40f8-ac8f-57dda57207b4">
-![IMG_7610](https://github.com/joelaey/jawabanUASPi/assets/144584069/fd53281e-2876-4f2b-b21a-dbfa641e0f66)
-![IMG_7609](https://github.com/joelaey/jawabanUASPi/assets/144584069/569da2e9-8d12-4b31-870b-9d15f3970b3d)
+![](https://github.com/joelaey/jawabanUASPi/assets/144584069/fd53281e-2876-4f2b-b21a-dbfa641e0f66)
+![](https://github.com/joelaey/jawabanUASPi/assets/144584069/569da2e9-8d12-4b31-870b-9d15f3970b3d)
 
 
 ## 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
