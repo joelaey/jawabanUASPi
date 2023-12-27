@@ -26,6 +26,7 @@ Ada beberapa jenis mesin komputer yang berbeda-beda. Ada komputer pribadi yang d
 ## 7. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 <img width="1440" alt="Screenshot 2023-12-19 at 22 21 15" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/90c01521-3a9e-476e-b2ee-7a223ff93b51">
 
+Bubble sort ini menggunakan 2 looping loop yang pertama digunakan untuk membaca semua data didalam array dan loop kedua digunakan untuk pengkondisian misal ascending itu akan membandingkan 2 nilai dalam data array, jika yang sebelah kiri lebih kecil itu akan tetap saja seperti itu dan jika yang sebelah kiri lebih besar itu akan ditukar dengan cara nilai index yang sebelah kiri akan di simpan dalam int temp lalu di timpa dengan nilai yang di sebelah kanan dan nilai disebelah kanan akan ditimpa dengan nilai dari int temp, begitu pun seterusnya
 
 ## 8. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 <img width="1440" alt="Screenshot 2023-12-19 at 22 23 59" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/cc60847c-94ce-46e3-af9e-38532cef83b8">
@@ -180,7 +181,7 @@ Jurnal adalah tulisan ilmiah yang berisi penelitian, biasanya ditulis oleh pakar
 https://www.linkedin.com/in/m-agung-julyansyah-8979b1297/
 
 ## 50. Membangun Profil Github Pages ⭐⭐⭐⭐⭐
-[](https://github.com/joelaey)
+https://github.com/joelaey/joelaey.github.io
 ## 51. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 <img width="929" alt="Screenshot 2023-12-19 at 22 54 37" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/0b8d10a4-0d2f-4a84-9999-eeb3545cf943">
 
