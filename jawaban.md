@@ -68,6 +68,8 @@ Saya disini menggunakan nslookup dengan cara search " nslookup 'example.com' ".
 <img width="1436" alt="Screenshot 2023-12-27 at 00 58 47" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/e690d578-5807-4b5f-8802-196acae42871">
 
 ## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+<img width="843" alt="Screenshot 2023-12-27 at 09 29 46" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/71a9b9e2-8cc1-4276-90b3-8e81fad014e5">
+Untuk yang diatas adalah termasuk dalam On page SEO dengan cara mencantumkan link yang sedang di push didalam page wordpress nya.
 
 ## 18. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 <img width="1436" alt="Screenshot 2023-12-27 at 00 58 47" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/9992adbe-8e84-43ca-9160-96ee28812f27">
