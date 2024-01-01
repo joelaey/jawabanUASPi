@@ -1,17 +1,17 @@
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-Pemikiran Komputasional adalah cara kita menyelesaikan masalah seperti memecah masalah besar menjadi potongan kecil, mencari pola atau kesamaan, menyederhanakan masalah, dan membuat rencana langkah demi langkah untuk menyelesaikannya atau yang disebut dengan algoritma. Ini seperti saat kita memecahkan puzzle atau menyelesaikan lego, kita membaginya ke bagian-bagian lebih kecil dan menggunakan langkah-langkah untuk menemukan jawabannya. Jadi, Pemikiran Komputasional itu seperti membantu pikiran kita bekerja dengan cara cerdas untuk menyelesaikan masalah.
+https://julay06.wordpress.com/2024/01/01/computational-thinking/
 
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-Ada beberapa jenis mesin komputer yang berbeda-beda. Ada komputer pribadi yang digunakan orang untuk pekerjaan, belajar, dan main game. Laptop mirip komputer tapi bisa dibawa ke mana-mana. Komputer tablet itu seperti gadget besar yang bisa disentuh layarnya. Server itu komputer besar yang simpan data dan layani banyak orang sekaligus. Superkomputer sangat cepat dan kuat untuk tugas besar seperti riset ilmiah. Terakhir, komputer embedded ada di dalam barang lain seperti mobil atau kamera untuk kontrol fungsinya. Jadi, tiap jenis komputer punya peran sendiri dalam membantu kita sehari-hari.
+https://julay06.wordpress.com/2024/01/01/mesin-komputasi/
 
 ## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 <img width="1440" alt="Screenshot 2023-12-19 at 21 51 38" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/617a5b6c-2a63-4010-a2e6-b9d36b857014">
 
 ## 4. Mencoba Console Sistem Operasi
 
-## 4.1. Windows CMD (Terminal MAC) [v] ⭐⭐⭐⭐
+## 4.1. Windows CMD / Terminal MAC [v] ⭐⭐⭐⭐
 <img width="1440" alt="Screenshot 2023-12-19 at 22 40 16" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/f3c2d517-683e-488d-9e28-3917dab77efa">
-
+Terminal pada Laptop saya ini biasanya saya gunakan untuk menginstall sesuatu ataupun run code atau program yang telah saya buat.
 
 ## 4.2. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 <img width="1440" alt="Screenshot 2023-12-19 at 22 43 56" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/9f3cefbf-fb75-4f2c-88d4-2a111c41d7f5">
@@ -19,15 +19,17 @@ Ada beberapa jenis mesin komputer yang berbeda-beda. Ada komputer pribadi yang d
 
 ## 5. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 <img width="843" alt="Screenshot 2023-12-27 at 09 29 46" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/c6632753-dd5d-487a-9683-624b5423d7c7">
-
+<img width="562" alt="Screenshot 2024-01-01 at 19 59 57" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/104df078-f486-40d6-b0dd-a1427e7e758a">
+Saya membuat algoritma flowchart ini pada web mermaid.live
 
 ## 6. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-<img width="1437" alt="Screenshot 2023-12-19 at 22 19 53" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/3d0f54b6-a8a2-4ece-b443-0fe325d780d7">
+<img width="1431" alt="Screenshot 2024-01-01 at 20 32 17" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/80eaf176-d909-47a8-9e95-a346d8eddd16">
+Jadi ini adalah project Scratch kelompok saya pada matkul Fisika Dasar tugas RBL
 
 ## 7. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 <img width="1440" alt="Screenshot 2023-12-19 at 22 21 15" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/90c01521-3a9e-476e-b2ee-7a223ff93b51">
 
-Bubble sort ini menggunakan 2 looping loop yang pertama digunakan untuk membaca semua data didalam array dan loop kedua digunakan untuk pengkondisian misal ascending itu akan membandingkan 2 nilai dalam data array, jika yang sebelah kiri lebih kecil itu akan tetap saja seperti itu dan jika yang sebelah kiri lebih besar itu akan ditukar dengan cara nilai index yang sebelah kiri akan di simpan dalam int temp lalu di timpa dengan nilai yang di sebelah kanan dan nilai disebelah kanan akan ditimpa dengan nilai dari int temp, begitu pun seterusnya
+Bubble sort ini menggunakan 2 looping loop yang pertama digunakan untuk membaca semua data didalam array dan loop kedua digunakan untuk pengkondisian misal ascending itu akan membandingkan 2 nilai dalam data array, jika yang sebelah kiri lebih kecil itu akan tetap saja seperti itu dan jika yang sebelah kiri lebih besar itu akan ditukar dengan cara nilai index yang sebelah kiri akan di simpan dalam int temp lalu di timpa dengan nilai yang di sebelah kanan dan nilai disebelah kanan akan ditimpa dengan nilai dari int temp, begitu pun seterusnya.
 
 ## 8. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 <img width="1440" alt="Screenshot 2023-12-19 at 22 23 59" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/cc60847c-94ce-46e3-af9e-38532cef83b8">
