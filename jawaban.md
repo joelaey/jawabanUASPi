@@ -32,11 +32,9 @@ Jadi ini adalah project Scratch kelompok saya pada matkul Fisika Dasar tugas RBL
 Bubble sort ini menggunakan 2 looping loop yang pertama digunakan untuk membaca semua data didalam array dan loop kedua digunakan untuk pengkondisian misal ascending itu akan membandingkan 2 nilai dalam data array, jika yang sebelah kiri lebih kecil itu akan tetap saja seperti itu dan jika yang sebelah kiri lebih besar itu akan ditukar dengan cara nilai index yang sebelah kiri akan di simpan dalam int temp lalu di timpa dengan nilai yang di sebelah kanan dan nilai disebelah kanan akan ditimpa dengan nilai dari int temp, begitu pun seterusnya.
 
 ## 8. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-<img width="1440" alt="Screenshot 2023-12-19 at 22 23 59" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/cc60847c-94ce-46e3-af9e-38532cef83b8">
+https://www.youtube.com/watch?v=Qfenvn-9S34
 
-<img width="1440" alt="Screenshot 2023-12-19 at 22 24 26" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/4953313e-bec4-4063-96a4-812eb4892f42">
-
-
+Pada video demonstrasi aplikasi yang saya buat juga sudah termasuk dengan penggunaan IDE nya.
 ## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 <img width="1440" alt="Screenshot 2023-12-19 at 22 25 39" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/5dbc1d81-06fe-4fc6-8dc4-65fca2b83050">
 <img width="1440" alt="Screenshot 2023-12-19 at 22 25 31" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/949dc6de-d789-47b3-ae2f-f2ff8aef6855">
@@ -49,6 +47,7 @@ https://www.youtube.com/watch?v=Qfenvn-9S34
 
 ## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 <img width="884" alt="Screenshot 2023-12-19 at 22 37 46" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/f77329a9-e063-4214-aa4d-3c19850ce303">
+Saya sudah menginstall mySQL ini dari lama jadi tidak terdokumentasi kan , Saya menginstallnya ketika mengerjakan  UTS yang membuat mobile apps.
 
 ## 12. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
