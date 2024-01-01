@@ -36,11 +36,11 @@ https://www.youtube.com/watch?v=Qfenvn-9S34
 
 Pada video demonstrasi aplikasi yang saya buat juga sudah termasuk dengan penggunaan IDE nya.
 ## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-<img width="1440" alt="Screenshot 2023-12-19 at 22 25 39" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/5dbc1d81-06fe-4fc6-8dc4-65fca2b83050">
-<img width="1440" alt="Screenshot 2023-12-19 at 22 25 31" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/949dc6de-d789-47b3-ae2f-f2ff8aef6855">
 <img width="1440" alt="Screenshot 2023-12-19 at 21 33 41" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/5a254e04-6176-4ec6-a48e-cf777497a5fb">
 <img width="1440" alt="Screenshot 2023-12-19 at 21 33 37" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/d7260673-2008-44e0-a8cf-dddf8de804ac">
 
+#### Link video
+https://www.youtube.com/watch?v=TImpSs_SM0U
 
 ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 https://www.youtube.com/watch?v=Qfenvn-9S34
@@ -80,6 +80,8 @@ Untuk yang diatas adalah termasuk dalam On page SEO dengan cara mencantumkan lin
 ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+<img width="1276" alt="Screenshot 2024-01-01 at 23 37 07" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/2d583bc2-1243-4777-9724-e4caafde8d09">
+
 
 ## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 <img width="1286" alt="Screenshot 2023-12-19 at 22 47 40" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/44ff5621-933c-454e-bf13-dade2df11f66">
@@ -109,7 +111,9 @@ Untuk mengakses konten multimedia seperti gambar, video, atau audio di web, lang
 
 
 ## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+<img width="1440" alt="Screenshot 2023-12-19 at 21 51 38" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/617a5b6c-2a63-4010-a2e6-b9d36b857014">
 
+Ini juga sudah termasuk pemrosesan konten Multimedia Audio (Text to speech)
 
 ## 29. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 <img width="1440" alt="Screenshot 2023-12-26 at 16 07 41" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/eb91b9bf-d4dc-4bde-85fc-83d50173657a">
@@ -121,12 +125,14 @@ Untuk mengakses konten multimedia seperti gambar, video, atau audio di web, lang
 
 
 ## 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-
+<img width="1440" alt="Screenshot 2023-12-19 at 21 51 38" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/617a5b6c-2a63-4010-a2e6-b9d36b857014">
 
 ## 32. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
-
+<img width="1440" alt="Screenshot 2024-01-01 at 23 21 58" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/458f299e-da1b-485d-8030-8fb2e6661928">
+Ini adala tools dari google yaitu Google Data Studio
 
 ## 33. Mencoba Data Visualization Dengan Code [v] ⭐⭐
+<img width="597" alt="Screenshot 2024-01-01 at 23 24 37" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/fff7718e-64f1-429a-a8e1-ed433c3bab82">
 
 
 ## 34. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
@@ -142,9 +148,10 @@ Untuk mengakses konten multimedia seperti gambar, video, atau audio di web, lang
 
 
 ## 37. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-
+<img width="610" alt="Screenshot 2024-01-01 at 23 27 22" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/56c2ae1e-0ee0-431e-8f52-d19f3ee8ea43">
 
 ## 38. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+<img width="596" alt="Screenshot 2024-01-01 at 23 27 55" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/5ffc9a29-0a01-43a9-bb95-c64ec10769e1">
 
 
 ## 39. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
@@ -186,6 +193,7 @@ https://www.linkedin.com/in/m-agung-julyansyah-8979b1297/
 
 ## 50. Membangun Profil Github Pages ⭐⭐⭐⭐⭐
 https://github.com/joelaey/joelaey.github.io
+
 ## 51. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 <img width="929" alt="Screenshot 2023-12-19 at 22 54 37" src="https://github.com/joelaey/jawabanUASPi/assets/144584069/0b8d10a4-0d2f-4a84-9999-eeb3545cf943">
 
